@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/css/main.bfdf9bc2.chunk.css",
+    "main.js": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/main.3b3d3b9b.chunk.js",
+    "main.js.map": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/main.3b3d3b9b.chunk.js.map",
+    "runtime-main.js": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/runtime-main.d387c8df.js",
+    "runtime-main.js.map": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/runtime-main.d387c8df.js.map",
+    "static/js/2.b691c13d.chunk.js": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/2.b691c13d.chunk.js",
+    "static/js/2.b691c13d.chunk.js.map": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/2.b691c13d.chunk.js.map",
+    "index.html": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/index.html",
+    "static/css/main.bfdf9bc2.chunk.css.map": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/css/main.bfdf9bc2.chunk.css.map",
+    "static/js/2.b691c13d.chunk.js.LICENSE.txt": "/git%20remote%20add%20origin%20http://yash0731.github.io/netflixapp/static/js/2.b691c13d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d387c8df.js",
+    "static/js/2.b691c13d.chunk.js",
+    "static/css/main.bfdf9bc2.chunk.css",
+    "static/js/main.3b3d3b9b.chunk.js"
+  ]
+}
